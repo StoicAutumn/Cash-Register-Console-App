@@ -1,0 +1,13 @@
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/bin/Debug/netcoreapp3.1/Capstone
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/bin/Debug/netcoreapp3.1/Capstone.deps.json
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/bin/Debug/netcoreapp3.1/Capstone.runtimeconfig.json
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/bin/Debug/netcoreapp3.1/Capstone.runtimeconfig.dev.json
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/bin/Debug/netcoreapp3.1/Capstone.dll
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/bin/Debug/netcoreapp3.1/Capstone.pdb
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.GeneratedMSBuildEditorConfig.editorconfig
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.AssemblyInfoInputs.cache
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.AssemblyInfo.cs
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.csproj.CoreCompileInputs.cache
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.dll
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.pdb
+/home/stoic/workspace/week-04-base-team-5/mini-capstone/Capstone/obj/Debug/netcoreapp3.1/Capstone.genruntimeconfig.cache
